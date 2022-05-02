@@ -25,6 +25,7 @@ def click_handle(*args, **kwargs):
 async def process_file(file):
     clog("process_file")
     data = json.dumps({"data": [file]})
+    print(data)
     post = {
         "method": "POST",
         "body": data,
