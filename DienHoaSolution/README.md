@@ -5,3 +5,7 @@ The first place solution briefly [described here](https://www.kaggle.com/competi
 ### Code
 
 https://www.kaggle.com/code/dienhoa/inference-submission-music-genre/notebook?scriptVersionId=92241526
+
+
+### command to download data from Kaggle
+
